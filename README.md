@@ -29,3 +29,11 @@ AI acknowledgment: I used Claude (Anthropic) to help edit and tighten the wordin
 Card Portfolio Review – Contactless Readiness, Develop a basic set of dashboards for contactless and non-contactless cards, and explain the design, [Card Portfolio Review - Contactless Readiness](https://public.tableau.com/views/CardPortfolioReview/ExploratoryDash?:language=fr-FR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), If I were doing this again, I'd planned earlier and spent more time cleaning it up and dive deeper on the analysis.
 
 Card Growth Analysis – Wildcat Rewards Offer, Develop a basic set of dashboards to identify credit card customers who qualify for the offer under the provided Credit Risk guardrails, and explain the design, [Card Growth Analysis – Wildcat Rewards Offer](https://public.tableau.com/views/CardGrowthAnalysis-WildcatRewardsOffer_17929176361990/ExploratoryDashboard?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), If I were to do this again, I would plan earlier and spend more time exploring different data visualizations to evaluate which one communicates the findings most effectively.
+
+Nov 2, 2026 · Data Storytelling with Adobe Express
+Work sample for Jordan Ellis, VP of Card Growth at Bear Down Bank: PRIORITIZE TEXAS CUSTOMERS FOR THE WILDCAT REWARDS PILOT.
+[Work sample (PDF)](https://github.com/...) · [Adobe Express](https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:64bea197-24cc-43c3-9e93-6615a1c18f05?accept=true&invite=true&promoid=Z2G1FQKR&mv=other)
+Design choice: I used a quarterly bar chart with Q4 and Q1 highlighted, because the case for temporary
+staff rests on two quarters standing far above the usual 232 to 407 expirations. I removed the card-type
+breakdown; the contact center handles every card the same way, so it only slowed the reader down.
+Training completed: Oct 30, 2026
