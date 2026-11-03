@@ -30,10 +30,12 @@ Card Portfolio Review – Contactless Readiness, Develop a basic set of dashboar
 
 Card Growth Analysis – Wildcat Rewards Offer, Develop a basic set of dashboards to identify credit card customers who qualify for the offer under the provided Credit Risk guardrails, and explain the design, [Card Growth Analysis – Wildcat Rewards Offer](https://public.tableau.com/views/CardGrowthAnalysis-WildcatRewardsOffer_17929176361990/ExploratoryDashboard?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), If I were to do this again, I would plan earlier and spend more time exploring different data visualizations to evaluate which one communicates the findings most effectively.
 
-Nov 2, 2026 · Data Storytelling with Adobe Express
+**Nov 2, 2026 · Data Storytelling with Adobe Express**
+
 Work sample for Jordan Ellis, VP of Card Growth at Bear Down Bank: PRIORITIZE TEXAS CUSTOMERS FOR THE WILDCAT REWARDS PILOT.
-[Work sample (PDF)](https://github.com/...) · [Adobe Express](https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:64bea197-24cc-43c3-9e93-6615a1c18f05?accept=true&invite=true&promoid=Z2G1FQKR&mv=other)
-Design choice: I used a quarterly bar chart with Q4 and Q1 highlighted, because the case for temporary
-staff rests on two quarters standing far above the usual 232 to 407 expirations. I removed the card-type
-breakdown; the contact center handles every card the same way, so it only slowed the reader down.
-Training completed: Oct 30, 2026
+
+[Work sample (PDF)](https://github.com/thinhbuiharry/mis561-portfolio/blob/main/adobe/bui-data-storytelling.pdf) · [Adobe Express](https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:64bea197-24cc-43c3-9e93-6615a1c18f05?accept=true&invite=true&promoid=Z2G1FQKR&mv=other)
+
+Design Choice: I used a horizontal bar chart to display the qualification rates by state among the 10 states with the largest customer counts. This visualization highlights two key insights: which state has the largest number of customers qualified for the Wildcat Rewards pilot and which state has the highest qualification rate. I removed the penetration by generation breakdown because presenting the data only as percentages could make it difficult for the audience to understand how many customers each percentage represents. 
+
+Training completed: Nov 1, 2026
