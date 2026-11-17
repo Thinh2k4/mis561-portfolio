@@ -39,3 +39,14 @@ Work sample for Jordan Ellis, VP of Card Growth at Bear Down Bank: PRIORITIZE TE
 Design Choice: I used a horizontal bar chart to display the qualification rates by state among the 10 states with the largest customer counts. This visualization highlights two key insights: which state has the largest number of customers qualified for the Wildcat Rewards pilot and which state has the highest qualification rate. I removed the penetration by generation breakdown because presenting the data only as percentages could make it difficult for the audience to understand how many customers each percentage represents. 
 
 Training completed: Nov 1, 2026
+
+
+**Nov 16, 2026 · Product Pitch with Generative AI in Adobe Express**
+
+Pitch to Jordan Ellis, VP of Card Growth, at Bear Down Bank: approve a two-week first phase to approve for the plan select which segment should receive the pilot mailing.
+[Pitch deck (PDF)](https://github.com/...) · [Adobe Express](https://...)
+Toughest objection: "We only have enough budget for one pilot. How can we be confident that we are targeting the right customers, and what happens if we get it wrong?" 
+Slide 5 answers it: we will rank eligible customer concentration across two dimensions: state and generation. By identifying which segments have the highest concentration of eligible customers, Bear Down Bank can prioritize the strongest potential target segment and focus its limited pilot budget there.
+AI use: I use it to check grammar and brainstorm what the slides should look like. Nov 16, 2026.
+Training completed: Nov 16, 2026
+
